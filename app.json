@@ -1,0 +1,23 @@
+{
+  "id": "fea57fd9-cfcd-43f6-a141-7b4e642b7d5b",
+  "name": "ALProject7",
+  "publisher": "Divakarreddy",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "10.0.0.0",
+  "application": "10.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  }
+}
